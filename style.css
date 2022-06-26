@@ -20,11 +20,11 @@ body{
 
 #title{
     margin-top:50px;
-    font-size:48px;
+    font-size:42px;
 }
 
 #explain{
-    margin-top:30px;
+    margin-top:20px;
     font-size:15px;
 }
 
@@ -68,14 +68,13 @@ body{
 #error{
     font-size: 12px;
     color:hsl(354, 100%, 66%);
-    margin-right:200px;
+    margin-right:250px;
 }
 
 
 #illustration{
-    margin-top: 20px;
-    width:550px;
-    text-align: center;
+    margin-top:20px;
+    width:500px;
     display:block;
     margin-left:auto;
     margin-right:auto;
@@ -86,7 +85,6 @@ body{
 }
 
 #social{
-    margin-top:20px;
     display:flex;
     justify-content: center;
     /*flexbox 참고

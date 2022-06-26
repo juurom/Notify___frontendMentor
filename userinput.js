@@ -10,7 +10,8 @@ $("#userinput").on("keyup", function(key){
     }
 })
 
-$("#submit").click(function(){
+$("#submit").click(function(event){
+    event.preventDefault();
     var email=$("#userinput").val();
     /*input box 안의 값*/
 
